@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "id": "product1",
+            "name": "Товар 1",
+            "price": 1000,
+            "currency": "KZT",
+            "quantity": 10,
+            "category_name": "Категория товаров",
+            "barcode": "1234567890123",
+            "description": "Описание товара",
+            "images": [
+                "https://domain.kz/img/vp10o8o77grk4b6kox3h20l7g2g04flf.jpg",
+                "https://domain.kz/img/tessd0mk0706v8k5khn9fx6157ndv0b0.jpg"
+            ]
+        }
+    ]
+}
